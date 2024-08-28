@@ -24,3 +24,19 @@ int main()
 	return 0;
 }
 
+/*
+*	_____________________________________
+	|Linia|a|b|aux|		Explicatie		|
+	+-----+-+-+---+----------------------
+	|1	  |3|7| ? |Se citesc de la tasta|
+	|	  |	  |   |tura valorile 3 si 7 |
+	|	  |	  |   |si se atribuie in ord|
+	|	  |	  |   |ine variabilelor a si|
+	|	  |	  |   |b. Variabila aux are |
+	|	  |	  |   |deocamndata o valoare|
+	|_____|___+___|necunoscuta			|
+	|2	  |3|7|3  |Se copiaza valoarea v|
+	|	  |	| |	  |ariabilei a in variab|
+	|     |_+_+___|ila aux				|
+	|3	  |..............ETC............|
+*/
